@@ -1,2 +1,2 @@
 # deform_tools
-Deformable registration manipulation tools for MATLAB
+Deformable registration and plastimatch manipulation tools for MATLAB
